@@ -1,5 +1,6 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
 /* eslint-disable max-classes-per-file */
+/* eslint-disable @typescript-eslint/no-unsafe-declaration-merging */
 import type { Ripple } from '@material/mwc-ripple';
 import { noChange } from 'lit';
 import { AttributePart, directive, Directive, DirectiveParameters } from 'lit/directive.js';
